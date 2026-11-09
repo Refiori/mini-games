@@ -105,4 +105,4 @@ return module
 
 Открой окно **Output** (View -> Output) и посмотри текст ошибки.
 Частые причины: неверное имя `StatusUpdate`, `Minigames` или `StatusLabel`,
-либо скрипт вставлен не того типа (Script / ModuleScript / LocalScript).
+либо скрипт вставлен не того типа (Script / ModuleScript / LocalScript).////
